@@ -1,14 +1,14 @@
-// const User = {
-//     name: "deepa",
-//     email: "deepa@lco.dev",
-//     isAvtive: true
-// }
+const User = {
+    name: "deepa",
+    email: "deepa@lco.dev",
+    isAvtive: true
+}
 
-// function createUser({name: string, isPaid: boolean}){}
+function createUser({name: string, isPaid: boolean}){}
 
-// let newUser = {name: "deepasri", isPaid: false, email: "h@h.com"}
+let newUser = {name: "deepasri", isPaid: false, email: "h@h.com"}
 
-// createUser(newUser)
+createUser(newUser)
 
 
 

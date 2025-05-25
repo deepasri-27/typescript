@@ -1,9 +1,9 @@
 "use strict";
-// const User = {
-//     name: "deepa",
-//     email: "deepa@lco.dev",
-//     isAvtive: true
-// }
+const User = {
+    name: "deepa",
+    email: "deepa@lco.dev",
+    isAvtive: true
+}
 exports.__esModule = true;
 var myUser = {
     _id: "1245",
