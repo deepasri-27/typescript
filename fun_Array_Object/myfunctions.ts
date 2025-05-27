@@ -17,12 +17,12 @@ getUpper("Deepa")
 signUpUser("Deepa", "Deepa@lco.dev", false)
 loginUser("h", "h@h.com")
 
-// function getValue(myVal: number): boolean{
-//     if (myVal > 5) {
-//         return true
-//     }
-//     return "200 OK"
-// }
+function getValue(myVal: number): boolean|string{
+    if (myVal > 5) {
+        return true
+    }
+    return "200 OK";
+}
 
 const getHello = (s: string):string => {
     return ""
